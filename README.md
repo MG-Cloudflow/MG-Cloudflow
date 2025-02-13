@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there & Welcome👋
+
+## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mg-cloudflow&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
+
 
 <!--
 **MG-Cloudflow/MG-Cloudflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
