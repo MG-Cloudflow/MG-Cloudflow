@@ -1,4 +1,7 @@
-## Hi there & Welcome👋
+# Hi there & Welcome👋
+
+## 🔧 My main projects:
+- [Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit) – A PowerShell-based tool to simplify Intune policy management.
 
 ## 📊 GitHub Stats
 
@@ -6,6 +9,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mg-cloudflow&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
+## 📬 Get in touch:
+- Email: [maxime@example.com](mailto:maxime@example.com)
+- LinkedIn: [Maxime Guillemin](https://www.linkedin.com/in/maximeguillemin)
 
 ![](https://hit.yhype.me/github/profile?account_id=8785071)
 
